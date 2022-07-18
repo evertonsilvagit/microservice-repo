@@ -1,0 +1,9 @@
+spring:
+  datasource:
+    username: admin
+    password: Ere_250893
+    url: jdbc:mysql://mysql.evertonsilva.io:3306/fornecedor
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    hibernate:
+      ddl-auto: none
